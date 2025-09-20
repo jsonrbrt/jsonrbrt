@@ -9,4 +9,4 @@ Some things that I am learning right now:
 - Javascript
 - SQL
 
-You can find my portfolio projects here: https;;//jsonrbrt.github.io
+You can find my portfolio projects here: (https://jsonrbrt.github.io)
